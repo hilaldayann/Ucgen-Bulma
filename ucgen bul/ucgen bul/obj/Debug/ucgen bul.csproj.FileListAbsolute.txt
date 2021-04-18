@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\bin\Debug\ucgen bul.exe.config
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\bin\Debug\ucgen bul.exe
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\bin\Debug\ucgen bul.pdb
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen bul.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen_bul.Form1.resources
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen_bul.Properties.Resources.resources
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen bul.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen bul.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen bul.exe
+C:\Users\Hilal\source\repos\ucgen bul\ucgen bul\obj\Debug\ucgen bul.pdb
